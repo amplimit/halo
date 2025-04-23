@@ -111,6 +111,7 @@ management:
         enabled: true
       show-details: always
       show-components: always
+      validate-group-membership: false
       group:
         distributed:
           include: distributedHealthIndicator
